@@ -1,0 +1,12 @@
+[package]
+name = "advent_of_code_2015"
+version = "0.1.0"
+authors = ["Olivier Chassé St-Laurent <oliviercsl@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+md5 = "0.6.1"
+encoding = "0.2"
+permutohedron = "0.2.4"
+serde_json = "1.0"
+itertools = "0.8"
